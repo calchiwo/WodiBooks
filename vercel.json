@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://wodiwaitlist.vercel.app",
+      "statusCode": 302
+    }
+  ]
+}
