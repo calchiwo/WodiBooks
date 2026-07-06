@@ -3,7 +3,7 @@ module.exports = {
     return [
       {
         source: "/",
-        destination: "https://wodiwaitlist.vercel.app",
+        destination: "https://wodiwaitlist.netlify.app",
         permanent: false,
       },
     ];
